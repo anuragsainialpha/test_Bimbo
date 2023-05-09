@@ -1,0 +1,15 @@
+[17-Feb-2020 19:22:14 Asia/Karachi] PHP Fatal error:  Uncaught Error: Class 'medoo' not found in /var/www/html/Lucio/BBU/public/test11.php:18
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/Lucio/BBU/public/test11.php on line 18
+[17-Feb-2020 19:23:06 Asia/Karachi] PHP Fatal error:  Uncaught Error: Class 'Medoo' not found in /var/www/html/Lucio/BBU/public/test11.php:18
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/Lucio/BBU/public/test11.php on line 18
+[17-Feb-2020 19:23:26 Asia/Karachi] PHP Notice:  Array to string conversion in /var/www/html/Lucio/BBU/public/test11.php on line 20
+[17-Feb-2020 19:23:47 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function print_d() in /var/www/html/Lucio/BBU/public/test11.php:22
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/Lucio/BBU/public/test11.php on line 22
+[17-Feb-2020 19:26:43 Asia/Karachi] PHP Warning:  Illegal string offset 'value' in /var/www/html/Lucio/BBU/public/test11.php on line 30
+[17-Feb-2020 19:26:43 Asia/Karachi] PHP Notice:  Uninitialized string offset: 0 in /var/www/html/Lucio/BBU/public/test11.php on line 30
